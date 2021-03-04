@@ -1,4 +1,4 @@
-package com.mario.main;
+package com.mario.main.game;
 
 import org.lwjgl.*;
 import org.lwjgl.glfw.*;
